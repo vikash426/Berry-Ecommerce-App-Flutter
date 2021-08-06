@@ -1,4 +1,4 @@
-# berry
+# Berry Ecommerce App Flutter
 
 A new Flutter project.
 
