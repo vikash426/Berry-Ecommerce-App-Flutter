@@ -1,4 +1,4 @@
-# Berry Ecommerce App Flutter
+#Ecommerce Mobile App
 
 A new Flutter project.
 
